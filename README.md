@@ -5,3 +5,4 @@
 4. Given a Binary Tree convert it to its mirror tree
 5. Construct a Binary Tree from given PostOrder and InOrder Notion
 6. Construct a Binary Tree from given PreOrder and InOrder Notion
+7. Check if two given trees are same or not
