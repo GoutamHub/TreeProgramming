@@ -6,3 +6,5 @@
 5. Construct a Binary Tree from given PostOrder and InOrder Notion
 6. Construct a Binary Tree from given PreOrder and InOrder Notion
 7. Check if two given trees are same or not
+8. ZigZag or Spiral Traversal of a Binary Tree(Recursive and Interative)
+9. Convert A given BST to BalancedTree
