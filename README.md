@@ -8,3 +8,4 @@
 7. Check if two given trees are same or not
 8. ZigZag or Spiral Traversal of a Binary Tree(Recursive and Interative)
 9. Convert A given BST to BalancedTree
+10. For a given BST convert it to corresponding Balance Tree
